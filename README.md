@@ -24,12 +24,11 @@ Howdy
 
 
 ### 📈 Github Stats:
-![tykhiev streak badge](https://github-readme-streak-stats.herokuapp.com?user=tykhiev&theme=dark)
+
 ![profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tykhiev&theme=gruvbox)
 ![repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tykhiev&theme=gruvbox) 
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tykhiev&theme=gruvbox)
 
-![tykhiev trophies](https://github-profile-trophy.vercel.app/?username=tykhiev&theme=gruvbox&row=1&column=6)
 <br>
 
 **Contact me at**
